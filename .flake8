@@ -1,2 +1,2 @@
-"[flake8]" 
-"ignore = E402, W291, F811" 
+[flake8]
+ignore = E402, W291, F811
